@@ -1,0 +1,75 @@
+//
+//  data.json
+//  UserApplication
+//
+//  Created by Liban Abdinur on 7/28/22.
+//
+
+import Foundation
+
+[
+  {
+    "id": 1,
+    "email": "george.Blooth@myco.in",
+    "first_name": "",
+    "last_name": "Blooth",
+    "group_name": "Network Service",
+    "designation": "Sr Manager"
+  },
+  {
+    "id": 2,
+    "email": "jannat.weaver@myco.in",
+    "first_name": "jannat",
+    "last_name": "Weaver",
+    "group_name": "Infrastructure",
+    "designation": "Ast Director"
+  },
+  {
+    "id": 3,
+    "email": "emma.d@myco.in",
+    "first_name": null,
+    "last_name": "Deen",
+    "group_name": "Hardware support",
+    "designation": "Segment Lead"
+  },
+  {
+    "id": 4,
+    "email": "eve.a@myco.in",
+    "first_name": "Eve",
+    "last_name": "Abc",
+    "group_name": "External Relationships",
+    "designation": "Ops Executive"
+  },
+  {
+    "id": 5,
+    "email": "bela.morris@myco.in",
+    "first_name": "Bela",
+    "last_name": "Morris",
+    "group_name": "Operation",
+    "designation": "Customer RM"
+  },
+  {
+    "id": 6,
+    "email": "eassey.ramos@myco.in",
+    "first_name": "Eassey",
+    "last_name": "Ramos",
+    "group_name": "IT",
+    "designations": "RMG"
+  },
+  {
+    "id": 7,
+    "email": "mila.bluth@myco.in",
+    "first_name": "",
+    "last_name": "Bluth",
+    "group_name": "Resource Mgmnt",
+    "designation": "BHM"
+  },
+  {
+    "id": 8,
+    "email": "Neema.w@myco.in",
+    "first_name": "Neema",
+    "last_name": "Wong",
+    "group_name": "Client Service",
+    "designation": null
+  }
+]
